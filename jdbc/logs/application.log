@@ -1,0 +1,33 @@
+2023-12-12 07:11:58 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2023-12-12 07:12:33 INFO  (MainFrame.java:115) Nuevo estudiante creado con los parametros: Donald Trump | 1967-04-19
+2023-12-12 07:13:08 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 07:13:14 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2023-12-12 07:13:25 INFO  (MainFrame.java:96) Estudiante 6incrito en la materia 8
+2023-12-12 07:13:31 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 07:27:19 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2023-12-12 07:27:27 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 07:34:32 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 07:34:53 INFO  (MainFrame.java:96) Estudiante 1 incrito en la materia 1
+2023-12-12 07:34:57 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 08:13:36 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2023-12-12 08:14:39 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 08:15:07 INFO  (MainFrame.java:156) Estudiante 1 retirado de la materia 1
+2023-12-12 08:15:08 INFO  (MainFrame.java:83) Lista de materias abierta
+2023-12-12 08:15:49 INFO  (MainFrame.java:115) Nuevo estudiante creado con los parametros: Axel Rose | 1987-02-09
+2023-12-12 08:15:52 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2023-12-12 08:16:07 INFO  (MainFrame.java:96) Estudiante 7 incrito en la materia 7
+2023-12-12 08:16:10 INFO  (MainFrame.java:83) Lista de materias abierta
+2024-04-18 23:58:57 INFO  (MainFrame.java:83) Lista de materias abierta
+2024-04-19 17:35:02 INFO  (MainFrame.java:83) Lista de materias abierta
+2024-04-19 17:37:00 INFO  (MainFrame.java:147) Estudiante 4 eliminado
+2024-04-19 17:37:04 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2024-04-19 17:37:29 INFO  (MainFrame.java:147) Estudiante 5 eliminado
+2024-04-19 17:37:42 INFO  (MainFrame.java:147) Estudiante 6 eliminado
+2024-04-19 17:37:55 INFO  (MainFrame.java:147) Estudiante 7 eliminado
+2024-04-19 17:55:40 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2024-04-19 17:56:22 INFO  (MainFrame.java:115) Nuevo estudiante creado con los parametros: Goku | 1987-03-12
+2024-04-19 17:56:25 INFO  (MainFrame.java:77) Lista de estudiantes abierta
+2024-04-19 17:56:49 INFO  (MainFrame.java:96) Estudiante 8 incrito en la materia 1
+2024-04-19 17:56:51 INFO  (MainFrame.java:83) Lista de materias abierta
+2024-04-19 17:57:09 INFO  (MainFrame.java:156) Estudiante 8 retirado de la materia 1
+2024-04-19 17:57:12 INFO  (MainFrame.java:83) Lista de materias abierta
